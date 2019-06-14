@@ -3,3 +3,6 @@ A Turkish verb conjugator command line script (python 2.7). Conjugates to 5 tens
 
 ## Screenshot
 <img src="https://www.theostavrides.com/images/turkishverbconjugator.png" width="600px"/>
+
+## Use
+- Download the conjugator.py file and run it with ```python conjugator.py``` in the command line.
